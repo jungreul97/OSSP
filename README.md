@@ -1,2 +1,2 @@
 # OSSP
-hi git!
+bye git!
